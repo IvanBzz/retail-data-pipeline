@@ -1,0 +1,17 @@
+# Environments
+venv/
+.env/
+env/
+__pycache__/
+*.pyc
+
+# Data
+data/raw_data.csv
+data/marts/
+*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
