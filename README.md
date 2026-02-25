@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ```bash
 python etl/build_dwh.py
 ```
-*(Ожидает наличие `raw_data.csv` в папке `data/`)*.
+*(Ожидает наличие raw_data.csv в папке data/)*.
 
 ### 3. Запуск BI-дашборда
 Запуск интерактивного приложения Streamlit для визуализации тепловых карт Retention и RFM-сегментации.
